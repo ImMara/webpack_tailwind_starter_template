@@ -6,7 +6,7 @@
 
  delete .git folder
  
-#install dependancies
+#install dependencies
 
  CMD : npm install 
  
