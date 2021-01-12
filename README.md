@@ -1,31 +1,20 @@
-#######################################
-#######################################
-## webpack_tailwind_starter_template ##
-#######################################
-#######################################
+
+webpack_tailwind_starter_template #
 
 
-########################
-# setup for ur own git #
-########################
+setup for ur own git #
 
  delete .git folder
  
-########################
-# install dependancies #
-########################
+ install dependancies #
 
  CMD : npm install 
  
- ####################
-# start node server #
-#####################
+start node server #
 
 CMD : npm start
  
- #########
- # build #
- #########
+ build #
  
  CMD : npm run webpack
  
